@@ -1,7 +1,7 @@
 module "vpc" {
   source = "../modules/aws-vpc"
 
-  vpc-name        = var.VPC-name
+  vpc-name        = var.VPC-NAME
   vpc-cidr        = var.VPC-CIDR
   igw-name        = var.IGW-NAME
   public-cidr1    = var.PUBLIC-CIDR1
