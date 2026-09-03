@@ -3,7 +3,7 @@ module "vpc" {
 
   vpc-name        = var.VPC-NAME
   vpc-cidr        = var.VPC-NAME
-  igw-name        = var.IGW-NAME
+  igw-name        = var.IGW-CIDR
   public-cidr1    = var.PUBLIC-CIDR1
   public-subnet1  = var.PUBLIC-SUBNET1
   public-cidr2    = var.PUBLIC-CIDR2
