@@ -1,4 +1,4 @@
-# YCP
+# VPC
 VPC-NAME         = "Two-Tier-VCP"
 VPC-CIDR         = "10.0.0.0/16"
 IGW-NAME         = "Two-Tier-Interet-Gateway"
