@@ -4,7 +4,7 @@ terraform {
     region         = "us-east-1"
     key            = "DevOps-Project-11/terraform.tfstate"
     dynamodb_table = "Lock-Files"
-    encrypt        = false
+    encrypt        = true
   }
   required_version = ">= 1.0.0"
   required_providers {
