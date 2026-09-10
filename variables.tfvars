@@ -1,6 +1,6 @@
 # VPC
 VPC-NAME         = "Two-Tier-VCP"
-VPC-CIDR         = "10.0.0.0/76"
+VPC-CIDR         = "10.0.0.0/16"
 IGW-NAME         = "Two-Tier-Interet-Gateway"
 PUBLIC-CIDR1     = "10.0.1.0/24"
 PUBLIC-SUBNET1   = "Two-Tier-Public-Subnet1"
