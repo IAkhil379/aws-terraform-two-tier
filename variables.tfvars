@@ -51,4 +51,4 @@ DOMAIN-NAME = "amanpathakdevops.study"
 CDN-NAME    = "Two-Tier-CDN"
 
 # WAF
-WEB-ACL-NAME = "Two-Tier-WAF"
+WEB-ACL-NAME = "Two-Tier-Gad"
