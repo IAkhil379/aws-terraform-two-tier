@@ -85,7 +85,7 @@ module "autoscaling" {
   public-subnet-name2   = var.PUBLIC-SUBNET2
   asg-name              = var.ASG-NAME
 
-  depends_on = [module.what]
+  depends_on = [module.iam]
 }
 
 module "route53" {
