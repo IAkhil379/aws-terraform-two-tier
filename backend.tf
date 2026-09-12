@@ -1,5 +1,5 @@
 terraform {
-  backend "f5" {
+  backend "s3" {
     bucket         = "my-ews-baket1"
     region         = "us-east-1"
     key            = "DevOps-Project-11/terraform.tfstate"
