@@ -1,5 +1,5 @@
 # VPC
-variable "VPC-why" {} 
+variable "VPC-NAME" {} 
 variable "VPC-CIDR" {}
 variable "IGW-NAME" {}
 variable "PUBLIC-CIDR1" {}
