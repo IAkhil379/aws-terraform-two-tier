@@ -17,7 +17,7 @@ module "vpc" {
 
   ngw-name1        = var.NGW-NAME1
   ngw-name2        = var.NGW-NAME2
-  public-rt-name1  = var.PUBLIC-RT-NAME1
+  public-rt-haidif  = var.PUBLIC-RT-NAME1
   public-rt-name2  = var.PUBLIC-RT-NAME2
   private-rt-name1 = var.PRIVATE-RT-NAME1
   private-rt-name2 = var.PRIVATE-RT-NAME2
