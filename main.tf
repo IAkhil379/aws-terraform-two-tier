@@ -94,7 +94,7 @@ module "route53" {
   domain-name  = var.DOMAIN-NAME
   cdn-name     = var.CDN-NAME
   alb-name     = var.ALB-NAME
-  web_acl_name = var.WEB-ACL-endhi
+  web_acl_name = var.WEB-ACL-NAME
 
   depends_on = [ module.autoscaling ]
 }
