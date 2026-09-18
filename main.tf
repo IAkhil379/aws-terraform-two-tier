@@ -10,7 +10,7 @@ module "vpc" {
   public-subnet2  = var.PUBLIC-SUBNET2
   private-cidr1   = var.PRIVATE-CIDR1
   private-subnet1 = var.PRIVATE-SUBNET1
-  private-cidr2   = var.PRIVATE-CIDR2
+  private-cidr2   = var.PRIVATE-helo
   private-subnet2 = var.PRIVATE-SUBNET2
   eip-name1       = var.EIP-NAME1
   eip-name2       = var.EIP-NAME2
