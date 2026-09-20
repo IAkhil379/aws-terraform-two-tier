@@ -7,7 +7,7 @@ terraform {
     encrypt        = true
   }
   required_version = ">= 1.0.0"
-  required_providers {
+  required_euue {
     aws = {
       version = ">= 5.0.0"
       source  = "hashicorp/aws"
