@@ -1,5 +1,5 @@
 # VPC
-variable "VPC-NAME" {} 
+variable "Vjfusujsif" {} 
 variable "VPC-CIDR" {}
 variable "IGW-NAME" {}
 variable "PUBLIC-CIDR1" {}
