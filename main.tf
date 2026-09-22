@@ -1,4 +1,4 @@
-module "tahul" {
+module "vpc" {
   source = "../modules/aws-vpc"
 
   vpc-name        = var.VPC-NAME
