@@ -1,7 +1,7 @@
 #!/bin/bash
 
 apt-get update -y
-apt-get upgrade qksnqKSNQ  KSNLXN  
+apt-get upgrade nginx
 apt-get -y install nginx
 cd /var/www/html
 wget https://www.tooplate.com/zip-templates/2135_mini_finance.zip
