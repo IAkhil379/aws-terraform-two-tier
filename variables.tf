@@ -1,6 +1,6 @@
 # VPC
-variable "VPC-NAME" {rohjuuwjd} 
-variable "VPC-CIDR" {}
+variable "VPC-NAME" {} 
+variable "VPC-CIDR" {eejekkdke}
 variable "IGW-NAME" {}
 variable "PUBLIC-CIDR1" {}
 variable "PUBLIC-SUBNET1" {}
