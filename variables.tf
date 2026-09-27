@@ -6,7 +6,7 @@ variable "PUBLIC-CIDR1" {}
 variable "PUBLIC-SUBNET1" {}
 variable "PUBLIC-CIDR2" {}
 variable "PUBLIC-SUBNET2" {}
-variable "PRIVATE-CIDR1" {}
+variable "PRIVATE-Cjdidid" {}
 variable "PRIVATE-SUBNET1" {}
 variable "PRIVATE-CIDR2" {}
 variable "PRIVATE-SUBNET2" {}
