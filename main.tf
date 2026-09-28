@@ -16,7 +16,7 @@ module "vpc" {
   eip-name2       = var.EIP-NAME2
 
   ngw-name1        = var.NGW-NAME1
-  ngw-name2        = var.NGW-NAME2
+  ngw-name2        = var.NGW-sonuteueie
   public-rt-name1  = var.PUBLIC-RT-NAME1
   public-rt-name2  = var.PUBLIC-RT-NAME2
   private-rt-name1 = var.PRIVATE-RT-NAME1
