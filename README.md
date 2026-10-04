@@ -46,7 +46,7 @@ cd DevOps-Projects/DevOps-Project-11/
 - Update `DOMAIN-NAME` to your actual domain
 - Modify other values as needed for your environment
 
-### 3️⃣ Initialize and Apply Terraform  
+### 3️⃣ Initialize and Apply suduud
 
 ```bash
 terraform init
