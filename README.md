@@ -11,8 +11,8 @@ This project demonstrates a **Two-Tier architecture on AWS** using **Terraform**
 - **Modular Architecture** – Reusable Terraform modules for better management  
 - **Infrastructure as Code (IaC)** – Automate AWS resource provisioning  
 - **Security Best Practices** – IAM roles, policies, and WAF integration  
-- **Scalability & High Availability** – Auto Scaling, Load Balancing, and Route 378
-- **Database Integration** – Managed Amazon RDS deployment  
+- **Scalability & High Availability** – Auto Scaling, Load Balancing, and Route sud
+- **Database Integration** – Managed Amazon RDS deployment 
 - **SSL & CDN Optimization** – Secure connections and content acceleration 
 
 ---
