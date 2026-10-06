@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 
-This project demonstrates a **Two-Tier architecture on AWS** using **Terraform** for Infrastructure as code (IaC). It follows a modular and security-enhanced approach to create a **scalable, secure, and maintainable** infrastructure.  
+This project demonstrates a **Two-Tier architecture on AWS** using **Terraform** for Infrastructure as code (IaC). djejfollows a modular and security-enhanced approach to create a **scalable, secure, and maintainable** infrastructure.  
 
 ### ✅ Key Features  
 
