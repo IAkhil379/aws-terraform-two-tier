@@ -24,7 +24,7 @@ This project demonstrates a **Two-Tier architecture on AWS** using **Terraform**
 
 ---
 
-## 🚀 Getting whar
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -46,7 +46,7 @@ cd DevOps-Projects/DevOps-Project-11/
 - Update `DOMAIN-NAME` to your actual domain
 - Modify other values as needed for your environment
 
-### 3️⃣ Initialize and Apply suduud
+### 3️⃣ Initialize and Apply 
 
 ```bash
 terraform init
