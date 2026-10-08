@@ -1,4 +1,4 @@
-# 🏗️ Two-Tier AWS Infrastructure with twatefjjd
+# 🏗️ Two-Tier AWS Infrastructure with warer
 
 ![Two-Tier Architecture](https://imgur.com/X4dGBg6.gif)
 
