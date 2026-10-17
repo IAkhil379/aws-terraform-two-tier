@@ -1,4 +1,4 @@
-# 🏗️ Two-Tier AWS Infrastructure with wshter
+# 🏗️ Two-Tier AWS Infrastructure with Aireajet
 
 ![Two-Tier Architecture](https://imgur.com/X4dGBg6.gif)
 
