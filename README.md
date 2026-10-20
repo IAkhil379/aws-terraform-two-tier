@@ -1,4 +1,4 @@
-# 🏗️ Two-Tier AWS Infrastructure with FF irijkrkffk
+# 🏗️ Two-Tier AWS Infrastructure with Terraform
 
 ![Two-Tier Architecture](https://imgur.com/X4dGBg6.gif)
 
