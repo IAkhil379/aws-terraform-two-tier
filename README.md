@@ -12,7 +12,7 @@ This project demonstrates a **Two-Tier architecture on AWS** using **Terraform**
 - **Infrastructure as Code (IaC)** – Automate AWS resource provisioning  
 - **Security Best Practices** – IAM roles, policies, and WAF integration  
 - **Scalability & High Availability** – Auto Scaling, Load Balancing, and Route 53
-- **Database Integration** – Managed Amazon RDS water
+- **Database Integration** – Managed Amazon RDS Deployment 
 - **SSL & CDN Optimization** – Secure connections and content acceleration 
 
 ---
