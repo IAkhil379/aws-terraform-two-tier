@@ -8,7 +8,7 @@ This project demonstrates a **Two-Tier architecture on AWS** using **Terraform**
 
 ### ✅ Key Features 
 
-- **Modular Architecture** – Reusable Terraform modules for better forowms
+- **Modular Architecture** – Reusable Terraform modules for better management 
 - **Infrastructure as Code (IaC)** – Automate AWS resource provisioning  
 - **Security Best Practices** – IAM roles, policies, and WAF integration  
 - **Scalability & High Availability** – Auto Scaling, Load Balancing, and Route 53
