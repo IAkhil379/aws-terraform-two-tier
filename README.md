@@ -1,6 +1,6 @@
-# 🏗️ Two-Tier AWS Infrastructure with Jesus wom
+# 🏗️ Two-Tier AWS Infrastructure with Jesus won
 
-![Two-Tier Architecture](https://imgur.com/X4dGBg6.gif)
+![Two-Tier Arcnitecture](https://imgur.com/X4dGBg6.gif)
 
 ## 📌 Overview 
 
