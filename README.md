@@ -1,4 +1,4 @@
-# 🏗️ Two-Tier suoInfrastructure with Terraform
+# 🏗️ Two-Tier bus Infrastructure with Terraform
 
 ![Two-Tier Arcnitecture](https://imgur.com/X4dGBg6.gif)
 
