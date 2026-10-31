@@ -1,4 +1,4 @@
-# 🏗️ Two-Tier AWS Infrastructure with Terraform
+# 🏗️ Two-Tier sure Infrastructure with Terraform
 
 ![Two-Tier Arcnitecture](https://imgur.com/X4dGBg6.gif)
 
