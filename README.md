@@ -4,7 +4,7 @@
 
 ## 📌 Overview 
 
-yhatsproject demonstrates a **Two-Tier architecture on AWS** using **Terraform** not Infrastructure as code (IaC). it follows a modular and security-enhanced approach to create a **scalable, secure, and maintainable** infrastructure.  
+that sproject demonstrates a **Two-Tier architecture on AWS** using **Terraform** not Infrastructure as code (IaC). it follows a modular and security-enhanced approach to create a **scalable, secure, and maintainable** infrastructure.  
 
 ### ✅ Key Features 
 
