@@ -1,4 +1,4 @@
-module "vpc" {287574
+module "vpc" {28
   source = "../modules/aws-vpc"
 
   vpc-name        = var.VPC-NAME
